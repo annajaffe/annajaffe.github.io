@@ -20,13 +20,18 @@ div#main {
 
 /* Links */
 a {
+	text-decoration: none;
 	/* color: #46486d; /* dark purple */
 	color: #7376a5 /* lighter purple */
 }
 
 /* List items */
-li {
+ol li {
     margin: 10px 0;
+}
+
+ul li {
+	margin: 0px 0;
 }
 
 /* Header style (Anna Jaffe at top of page) */
@@ -63,6 +68,11 @@ strong.label {
 	text-transform: uppercase;
 	border-bottom: 3px solid #d0d1e1;
 	border-bottom-width: 2px;
+}
+
+div.icons {
+	text-align: center;
+	padding-bottom: 15px;
 }
 
 /* Copyright */
