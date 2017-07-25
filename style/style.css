@@ -1,0 +1,66 @@
+/* Anna Jaffe 2017*/
+
+body {
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	text-align: justify;
+
+	padding-left:200px;
+	padding-right:200px;
+	min-width: 600px
+}
+
+div#main {
+	width:768px;
+	padding:2em;
+}
+
+/* Links */
+a {
+	/* color: #46486d; /* dark purple */
+	color: #7376a5 /* lighter purple */
+}
+
+/* List items */
+li {
+    margin: 10px 0;
+}
+
+/* Header style (Anna Jaffe at top of page) */
+div#header {
+	text-align:center;
+	color: #32344e;
+	font-size: 48px;
+	line-height: 5px;
+
+	border-bottom: 3px solid #8386af;
+	border-bottom-width: 5px;
+}
+
+/* Main text */
+div.section {
+	padding-top: 40px; /* after horizontal line and before "about" */
+}
+
+#headshot {
+	/*float:left;*/
+	border-radius: 15px;
+}
+
+/* Header labels */
+strong.label {
+	display:block;
+	font-size: 120%;
+	width: 100%;
+	text-transform: uppercase;
+	border-bottom: 3px solid #d0d1e1;
+	border-bottom-width: 2px;
+}
+
+/* Copyright */
+div.footer#main {
+	text-align: center;
+	float:center;
+	font-size: 70%;
+	width: 100%;
+}
