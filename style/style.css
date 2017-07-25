@@ -9,7 +9,7 @@ body {
 
 	padding-left:200px;
 	padding-right:200px;
-	min-width: 600px
+	min-width: 680px
 }
 
 div#main {
@@ -33,7 +33,7 @@ li {
 div#header {
 	text-align:center;
 	color: #32344e;
-	font-size: 48px;
+	font-size: 38px;
 	line-height: 5px;
 
 	border-bottom: 3px solid #8386af;
@@ -67,7 +67,7 @@ strong.label {
 
 /* Copyright */
 div.footer {
-	padding-top: 60px;
+	/*padding-top: 60px;*/
 	text-align: center;
 	float: center;
 	font-size: 70%;
