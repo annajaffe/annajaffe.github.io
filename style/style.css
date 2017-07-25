@@ -64,6 +64,7 @@ img {
 strong.label {
 	display:block;
 	font-size: 120%;
+	font-weight: bold;
 	width: 100%;
 	text-transform: uppercase;
 	border-bottom: 3px solid #d0d1e1;
